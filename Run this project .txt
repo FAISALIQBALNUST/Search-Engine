@@ -1,0 +1,21 @@
+Download the dataset from the following link:
+https://www.kaggle.com/datasets/fabiochiusano/medium-articles
+
+When you have downloaded the dataset, if it is a zip/compressed file, unzip it.
+Save the datset as Dataset.csv and keep it in the project directory
+
+1)  run the divide.py so we have a chunk of the dataset
+2)  run the clean.py : 
+3)  run lexicon.py
+4)  run forwardIndex.py
+5)  run invertedIndex.py
+6)  run query.py to seach now the search engine should have worked 
+
+we had not implemeted barrels in this search engine yet so the speed may be slow but 
+the results are very accurate 
+
+
+you face any problem contact the following
+
+Faisal Iqbal: fiqbal.bese23seecs@seecs.edu.pk
+Muhammad Hassan Ali: mhali.bese23seecs@seecs.edu.pk
